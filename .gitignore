@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ipch
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# NuGet
+packages/
+
+# Binaries
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# CMake / cache (ako ima)
+out/
+build/
